@@ -1,0 +1,343 @@
+05/10/2024, 09:35:15: ERROR - Error processing the report em IssueReportController por User: undefined
+05/10/2024, 09:37:41: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'split') em IssueReportController por User: Desconhecido
+05/10/2024, 09:43:45: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'split') em IssueReportController por User: Desconhecido
+05/10/2024, 09:46:17: ERROR - Erro ao processar cronograma da turma undefined: Cannot read properties of undefined (reading 'split') em IssueReportController por User: undefined
+05/10/2024, 09:47:56: ERROR - Erro ao processar cronograma da turma [object Object]: Cannot read properties of undefined (reading 'split') em IssueReportController por User: undefined
+05/10/2024, 09:48:43: ERROR - Erro ao processar cronograma da turma [object Object]: Cannot read properties of undefined (reading 'split') em IssueReportController por User: undefined
+05/10/2024, 09:49:18: ERROR - Erro ao processar cronograma da turma [object Object]: Cannot read properties of undefined (reading 'split') em IssueReportController por User: undefined
+05/10/2024, 09:56:25: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 09:56:56: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 09:56:56: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 09:59:14: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:00:13: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:02:23: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:02:44: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:03:25: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:03:55: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:04:18: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:04:37: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:05:12: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:06:05: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:06:27: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:06:57: ERROR - Erro ao buscar turmas pelo ano: Nenhuma turma encontrada para o ano fornecido em IssueReportController por User: undefined
+05/10/2024, 10:07:40: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:07:43: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:08:11: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:08:55: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:09:16: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:09:43: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:11:16: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:14:36: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:15:29: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:16:10: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:20:33: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:37:32: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:37:41: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:37:58: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:38:40: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:38:58: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:39:34: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 10:40:55: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:47:09: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:50:55: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:52:19: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:52:24: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:55:14: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 10:56:57: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:01:12: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:01:21: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:07:03: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:09:29: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:13:23: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:16:54: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 11:17:25: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 13:50:05: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:02:53: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:10:20: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+05/10/2024, 14:12:46: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:13:23: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:15:18: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:22:21: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'codigo-turma') em IssueReportController por User: Desconhecido
+05/10/2024, 14:23:03: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:23:53: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:24:43: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:28:19: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:33:21: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:36:46: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:37:10: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:40:42: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:42:26: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:42:56: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:43:26: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:43:58: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 14:47:12: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:31:45: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:32:10: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:33:56: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:35:17: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:38:34: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:39:04: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:40:01: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:41:06: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:41:36: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:43:51: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:44:16: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:44:40: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:45:01: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+05/10/2024, 15:45:26: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 09:20:37: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 09:31:28: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 09:32:00: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 09:33:14: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 09:38:24: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:02:29: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:02:36: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:02:46: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:02:54: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:03:07: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:06:12: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:08:28: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:15:24: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:16:26: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:17:20: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:19:02: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:21:26: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:23:05: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:24:47: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:25:52: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:29:22: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+06/10/2024, 10:41:50: INFO - Relatório de evento 2 gerado com sucesso por User: undefined
+07/10/2024, 19:48:49: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 19:49:32: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 19:56:11: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:00:16: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:00:46: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:01:29: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:01:40: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:02:13: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:07:35: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:09:46: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:18:37: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:19:02: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:24:46: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:26:06: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:26:43: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:27:12: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:28:30: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:42:49: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:51:22: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:55:10: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 20:58:45: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:01:26: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:02:55: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:12:33: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:16:42: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:20:42: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:21:20: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:23:48: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:25:02: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:28:21: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:35:17: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:37:31: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:40:40: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:42:35: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:43:00: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:46:26: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+07/10/2024, 21:49:27: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 19:19:22: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 19:20:43: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 19:39:32: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 19:39:59: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:03:42: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:07:40: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:16:54: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:17:18: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:20:59: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:23:45: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+08/10/2024, 20:26:02: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 19:24:58: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 19:30:18: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 19:49:42: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 19:54:19: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 19:54:20: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 19:54:20: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 19:54:21: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 19:56:04: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 20:06:22: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:09:39: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:14:28: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:15:39: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:16:55: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:18:27: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:19:08: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:19:34: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:21:52: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 20:21:53: ERROR - Erro ao buscar turmas pelo ano: connect ECONNREFUSED 127.0.0.1:3000 em IssueReportController por User: undefined
+09/10/2024, 20:22:50: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:24:15: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:24:24: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:25:27: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+09/10/2024, 20:31:22: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 18:56:50: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:01:22: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:07:34: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'replace') em IssueReportController por User: Desconhecido
+11/10/2024, 19:07:37: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'replace') em IssueReportController por User: Desconhecido
+11/10/2024, 19:07:58: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'replace') em IssueReportController por User: Desconhecido
+11/10/2024, 19:08:57: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'replace') em IssueReportController por User: Desconhecido
+11/10/2024, 19:10:02: ERROR - Erro ao gerar o relatório de evento - Error: Cannot read properties of undefined (reading 'replace') em IssueReportController por User: Desconhecido
+11/10/2024, 19:12:23: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:13:49: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:19:24: ERROR - EventId não fornecido em IssueReportController por User: undefined
+11/10/2024, 19:19:24: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+11/10/2024, 19:19:24: ERROR - Erro específico em IssueReportController por User: undefined
+11/10/2024, 19:19:24: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+11/10/2024, 19:20:23: ERROR - EventId não fornecido em IssueReportController por User: undefined
+11/10/2024, 19:20:23: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+11/10/2024, 19:20:23: ERROR - Erro específico em IssueReportController por User: undefined
+11/10/2024, 19:20:23: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+11/10/2024, 19:23:38: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:24:20: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:24:50: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:25:12: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:25:36: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:25:37: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:27:02: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:28:14: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao buscar presenças: Nenhuma presença encontrada para a atividade fornecida em IssueReportController por User: Desconhecido
+11/10/2024, 19:29:43: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+11/10/2024, 19:33:08: ERROR - EventId não fornecido em IssueReportController por User: undefined
+11/10/2024, 19:33:08: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+11/10/2024, 19:33:08: ERROR - Erro específico em IssueReportController por User: undefined
+11/10/2024, 19:33:08: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+11/10/2024, 19:34:07: ERROR - EventId não fornecido em IssueReportController por User: undefined
+11/10/2024, 19:34:07: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+11/10/2024, 19:34:07: ERROR - Erro específico em IssueReportController por User: undefined
+11/10/2024, 19:34:07: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+11/10/2024, 19:38:29: ERROR - EventId não fornecido em IssueReportController por User: undefined
+11/10/2024, 19:38:29: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+11/10/2024, 19:38:29: ERROR - Erro específico em IssueReportController por User: undefined
+11/10/2024, 19:38:29: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+12/10/2024, 09:32:53: ERROR - Erro de validação em IssueReportController por User: undefined
+12/10/2024, 09:32:53: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+12/10/2024, 09:32:53: ERROR - Erro específico em IssueReportController por User: undefined
+12/10/2024, 09:32:53: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+12/10/2024, 09:33:55: INFO - Relatório de evento 3 gerado com sucesso por User: undefined
+12/10/2024, 13:50:35: INFO - Relatório de evento 3 gerado com sucesso por User: henriquepinheiro18@gmail.com
+12/10/2024, 14:28:00: INFO - Relatório de evento 3 gerado com sucesso por User: henriquepinheiro18@gmail.com
+12/10/2024, 14:29:03: ERROR - Erro de validação em IssueReportController por User: undefined
+12/10/2024, 14:29:03: INFO - Relatório de evento 123 gerado com sucesso por User: undefined
+12/10/2024, 14:29:03: ERROR - Erro específico em IssueReportController por User: undefined
+12/10/2024, 14:29:03: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: Desconhecido
+12/10/2024, 14:30:23: ERROR - Erro de validação em IssueReportController por User: user@example.com
+12/10/2024, 14:30:23: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+12/10/2024, 14:30:23: ERROR - Erro específico em IssueReportController por User: user@example.com
+12/10/2024, 14:30:23: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+12/10/2024, 14:30:30: ERROR - Erro de validação em IssueReportController por User: user@example.com
+12/10/2024, 14:30:30: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+12/10/2024, 14:30:30: ERROR - Erro específico em IssueReportController por User: user@example.com
+12/10/2024, 14:30:30: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+17/10/2024, 08:26:51: INFO - Relatório de evento 3 gerado com sucesso por User: henriquepinheiro18@gmail.com
+17/10/2024, 08:41:36: INFO - Relatório de evento 3 gerado com sucesso por User: henriquepinheiro18@gmail.com
+17/10/2024, 09:32:18: INFO - Relatório de evento 2 gerado com sucesso por User: henriquepinheiro18@gmail.com
+17/10/2024, 09:33:09: INFO - Relatório de evento 5 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 09:59:00: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 09:59:00: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 09:59:00: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 09:59:00: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:00:48: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:00:48: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:00:48: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:00:48: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:01:28: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:01:28: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:01:28: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:01:28: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:03:57: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:03:57: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:03:57: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:03:57: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:04:07: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:04:07: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:04:07: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:04:07: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:04:21: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:04:21: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:04:21: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:04:21: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 10:06:10: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 10:06:10: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 10:06:10: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 10:06:10: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+20/10/2024, 14:02:33: INFO - Relatório de evento 8 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:03:49: INFO - Relatório de evento 3 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:04:49: INFO - Relatório de evento 8 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:07:20: INFO - Relatório de evento 8 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:12:56: INFO - Relatório de evento 8 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:14:36: INFO - Relatório de evento 8 gerado com sucesso por User: henriquepinheiro18@gmail.com
+20/10/2024, 14:31:14: ERROR - Erro de validação em IssueReportController por User: user@example.com
+20/10/2024, 14:31:14: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+20/10/2024, 14:31:14: ERROR - Erro específico em IssueReportController por User: user@example.com
+20/10/2024, 14:31:14: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:15:54: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:15:54: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:15:54: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:15:54: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:17:23: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:17:23: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:17:23: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:17:23: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:18:33: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:18:33: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:18:33: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:18:33: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:19:11: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:19:11: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:19:11: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:19:11: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:21:07: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:21:07: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:21:07: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:21:07: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:21:44: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:21:44: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:21:44: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:21:44: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:24:31: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:24:31: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:24:31: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:24:31: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:25:19: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:25:19: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:25:19: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:25:19: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:27:44: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:27:44: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:27:44: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:27:44: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:29:08: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:29:08: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:29:08: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:29:08: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:30:11: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:30:11: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:30:11: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:30:11: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:30:24: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:30:24: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:30:24: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:30:24: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:32:12: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:32:12: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:32:12: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:32:12: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:33:34: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:33:34: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:33:34: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:33:34: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:35:44: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:35:44: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:35:44: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:35:44: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
+28/10/2024, 20:36:18: ERROR - Erro de validação em IssueReportController por User: user@example.com
+28/10/2024, 20:36:18: INFO - Relatório de evento 123 gerado com sucesso por User: user@example.com
+28/10/2024, 20:36:18: ERROR - Erro específico em IssueReportController por User: user@example.com
+28/10/2024, 20:36:18: ERROR - Erro ao gerar o relatório de evento - Error: Erro ao gerar o relatório de evento em IssueReportController por User: user@example.com
